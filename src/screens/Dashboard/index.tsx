@@ -1,5 +1,5 @@
 import React from 'react';
- import { 
+import { 
   Container, 
   Header, 
   UserWrapper,
@@ -7,7 +7,8 @@ import React from 'react';
   Photo,
   User,
   UserGreeting,
-  UserName
+  UserName,
+  Icon
 } from './styles';
 
 export function Dashboard() {
@@ -22,6 +23,8 @@ export function Dashboard() {
               <UserName>Beto do Swing</UserName>
             </User>
           </UserInfo>
+
+          <Icon name="power" />
         </UserWrapper>
         </Header>
     </Container>
