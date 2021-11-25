@@ -65,10 +65,10 @@ export function Dashboard() {
       <Header>
         <UserWrapper>
           <UserInfo>
-            <Photo source={{ uri: 'https://avatars.githubusercontent.com/u/4602926?v=4'}} />
+            <Photo source={{ uri: 'https://avatars.githubusercontent.com/u/9589717?v=4'}} />
             <User>
               <UserGreeting>Olá,</UserGreeting>
-              <UserName>Beto do Swing</UserName>
+              <UserName>Jefferson</UserName>
             </User>
           </UserInfo>
 
